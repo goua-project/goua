@@ -11,7 +11,7 @@ const Footer = () => {
             <div>
               <Link to="/" className="flex items-center mb-4">
                 <ShoppingBag className="h-8 w-8 text-orange-500" />
-                <span className="ml-2 text-xl font-bold">boutikplace</span>
+                <span className="ml-2 text-xl font-bold">Gouwadan</span>
               </Link>
               <p className="text-gray-400 mb-4">
                 Démocratiser le e-commerce en Afrique, en permettant à toute personne de lancer sa mini-boutique en ligne en quelques minutes.
@@ -62,7 +62,7 @@ const Footer = () => {
         </div>
         
         <div className="py-6 border-t border-gray-800 text-center text-gray-400 text-sm">
-          <p>&copy; {new Date().getFullYear()} boutikplace. Tous droits réservés.</p>
+          <p>&copy; {new Date().getFullYear()} gouwadan. Tous droits réservés.</p>
         </div>
       </Container>
     </footer>

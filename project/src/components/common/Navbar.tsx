@@ -32,7 +32,7 @@ const Navbar = () => {
           <div className="flex items-center">
             <Link to="/" className="flex items-center">
               <ShoppingBag className="h-8 w-8 text-orange-500" />
-              <span className="ml-2 text-xl font-bold">boutikplace</span>
+              <span className="ml-2 text-xl font-bold">Gouwadan</span>
             </Link>
           </div>
 
